@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgeeyao)](https://github.com/mcgeeyao/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alex391a?theme=unicorn&font=Bai%20Jamjuree&ext=contest)
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=alex391a&theme=1)
+![](https://raw.githubusercontent.com/alex391a/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/alex391a/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/alex391a/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/alex391a/cf-stats/main/output/rating.svg)
