@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgeeyao)](https://github.com/mcgeeyao/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex391a)](https://github.com/alex391a/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alex391a?theme=unicorn&font=Bai%20Jamjuree&ext=contest)
 ![](https://raw.githubusercontent.com/mcgeeyao/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mcgeeyao/cf-stats/main/output/max_rating.svg)
